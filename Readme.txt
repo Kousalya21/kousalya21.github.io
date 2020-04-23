@@ -1,2 +1,2 @@
 Name: Kousalya Lakshmanan
-Link: kousalya21.github.io
+Link: https://kousalya21.github.io/ 
